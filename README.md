@@ -1,0 +1,2 @@
+# SimuladorSO
+Simulador de procesos 
